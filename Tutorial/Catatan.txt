@@ -1,0 +1,4 @@
+Sumber:
+https://www.c-sharpcorner.com/UploadFile/72d20e/concept-of-linq-with-C-Sharp/
+
+https://www.c-sharpcorner.com/article/linq-for-beginners/

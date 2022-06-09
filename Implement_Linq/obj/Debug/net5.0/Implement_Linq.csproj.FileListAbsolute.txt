@@ -1,0 +1,16 @@
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\bin\Debug\net5.0\Implement_Linq.exe
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\bin\Debug\net5.0\Implement_Linq.deps.json
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\bin\Debug\net5.0\Implement_Linq.runtimeconfig.json
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\bin\Debug\net5.0\Implement_Linq.runtimeconfig.dev.json
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\bin\Debug\net5.0\Implement_Linq.dll
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\bin\Debug\net5.0\ref\Implement_Linq.dll
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\bin\Debug\net5.0\Implement_Linq.pdb
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.csprojAssemblyReference.cache
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.AssemblyInfoInputs.cache
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.AssemblyInfo.cs
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.csproj.CoreCompileInputs.cache
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.dll
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\ref\Implement_Linq.dll
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.pdb
+E:\Project\Console_Linq_C#\Implement_Linq\Implement_Linq\obj\Debug\net5.0\Implement_Linq.genruntimeconfig.cache
